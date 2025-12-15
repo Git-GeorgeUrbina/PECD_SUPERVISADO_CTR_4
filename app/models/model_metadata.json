@@ -14,12 +14,12 @@
   "n_features": 8,
   "target_col": "Outcome",
   "metrics": {
-    "auc_test": 0.5807,
+    "auc_test": 0.818,
     "n_train_samples": 614,
     "n_test_samples": 154
   },
   "training_info": {
-    "date": "2025-12-15T03:10:24.211561",
+    "date": "2025-12-15T15:11:41.794351",
     "version": "4.6.0"
   }
 }
